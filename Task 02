@@ -1,1 +1,15 @@
+1. primitives 和 container的区别和联系是什么？
+primitives是基本要素，包括一些绘图的标准图形对象，比如曲线Line2D,文字text，矩形Rectangle，图像image等
+container是用来装基本要素的地方，包括图形figure，坐标系axes，坐标轴axis
+他们是包含关系
 
+2. 四个容器的联系和区别是么？他们分别控制一张图表的哪些要素？
+  1） figure 容器
+      最顶层的容器，包含图表中所有元素
+  2） axes 容器
+      核心容器，包含用于绘图的artist
+  3）axis 容器
+      用于处理坐标轴上的刻度线，刻度label，坐标网格和坐标轴标题
+  4）tick 容器
+      最末端的容器，用于设置对饮刻度线标尺的颜色等属性
+      
