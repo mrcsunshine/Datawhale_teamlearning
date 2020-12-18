@@ -27,9 +27,7 @@ for ax in axs.flat:
             y_i=-1 * (i - 2) * (i - 8) +10
             ax.fill_between(i,y_i,interpolate=True,color='green',alpha=0.5)
         elif count==1:
-            i= np.linspace(2,9,10)
-            y_i=-1 * (i - 2) * (i - 8) +10
-            ax.fill_between(i,y_i,step='mid',interpolate=True,color='blue',alpha=0.5)
+            ax.bar(x[(x>2)&(x<9)][::15],y[(x>2)&(x<9)][::15])
     count+=1
 plt.tight_layout()
 plt.show()
