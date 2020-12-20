@@ -48,3 +48,6 @@ ym_axes.get_xaxis().set_visible(False)
 ym_axes.get_yaxis().set_visible(False)
 for s in ym_axes.spines.values():
     s.set_visible(False)
+
+![image](https://user-images.githubusercontent.com/11401076/102715002-60a51700-430d-11eb-9b08-67713d2429d9.png)
+![image](https://user-images.githubusercontent.com/11401076/102715010-6bf84280-430d-11eb-983e-91892d35e3e5.png)
