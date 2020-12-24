@@ -61,4 +61,10 @@ for cmap_category, cmap_list in cmaps.items():
 
 plt.show()
 
-
+![image](https://user-images.githubusercontent.com/11401076/103069641-bbcf5600-45fa-11eb-95b7-4e19877a3121.png)
+![image](https://user-images.githubusercontent.com/11401076/103069663-c7bb1800-45fa-11eb-8b64-86caae3ff49e.png)
+![image](https://user-images.githubusercontent.com/11401076/103069697-d5709d80-45fa-11eb-85a4-501b1bf9c8d9.png)
+![image](https://user-images.githubusercontent.com/11401076/103069705-dd304200-45fa-11eb-846a-3b3958e03ea7.png)
+![image](https://user-images.githubusercontent.com/11401076/103069715-e5887d00-45fa-11eb-89e8-130db0266bf4.png)
+![image](https://user-images.githubusercontent.com/11401076/103069736-efaa7b80-45fa-11eb-8d4c-da84ae7274ed.png)
+![image](https://user-images.githubusercontent.com/11401076/103069749-f76a2000-45fa-11eb-8448-1aaeacaaeb66.png)
